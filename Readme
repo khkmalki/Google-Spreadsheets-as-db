@@ -1,0 +1,24 @@
+How to use Google Spreadsheets as database(backend)storage.
+
+What?
+
+A small code to dipslay Google Spreadsheets in your Ionic(2,3) app.
+
+Why?
+
+Maybe you don't want spend money over API services, or you have a management team who is not into IT stuff, or whatever.
+
+How?
+
+fetching the google Spreadsheets as csv, then create a Array/JSON to loop through it.
+
+
+NOTE:
+
+You will need to publish the file to the web. Which means anyone with the link can see the file but cannot change it.
+However, they can download it :).
+
+Tools:
+Ionic 2,3.(Http).
+
+
